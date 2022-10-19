@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arya Agasti</h1>
 <h3 align="center">A passionate & aspiring Become Software development Engineer from India</h3>
 
-<img align ="right" src="https://github.com/Aryaagasti/Aryaagasti/blob/main/Screenshot%202022-10-19%20090640.png" alt="coding"/>
+<img align ="right" src="https://github.com/Aryaagasti/Aryaagasti/blob/main/Screenshot%202022-10-19%20090640.png" alt="coding"  width="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryaagasti&label=Profile%20views&color=0e75b6&style=flat" alt="aryaagasti" /> </p>
 
